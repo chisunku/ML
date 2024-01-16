@@ -1,0 +1,1 @@
+[['seek', 'seeking'], ['depart', 'went'], ['tell', 'telling'], ['took', 'taking'], ['gone', 'went'], ['came', 'comes'], ['told', 'tell'], ['move', 'moves'], ['cold', 'winter'], ['fears', 'fright'], ['love', 'lovers'], ['traveller', 'traveler']]

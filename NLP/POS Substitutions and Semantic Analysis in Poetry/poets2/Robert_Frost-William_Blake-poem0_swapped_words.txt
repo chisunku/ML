@@ -1,0 +1,1 @@
+[['say', 'said'], ['know', 'known'], ['perish', 'hurt'], ['had', 'have'], ['think', 'thought'], ['hold', 'clasp'], ['end', 'done'], ['unknown', 'invisible'], ['great', 'good'], ['enough', 'such'], ['fire', 'fiery'], ['destruction', 'destroyor'], ['desire', 'desires'], ['hate', 'wrath'], ['ice', 'snow']]
