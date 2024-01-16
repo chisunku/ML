@@ -1,10 +1,6 @@
 California Wildfire Prediction
 
-Team name - Placeholder
-Team members - Chinmayi Sunku, Ujwala Mote, Nihal Kaul, Suma Nagral
-Roles
-Every member of the team contributed to each of the homework, documentation, and papers which resulted in this project submission, a culmination of all our work.
-
+Team members - Chinmayi Sunku, Ujwala Mote, Suma Nagral
 Link to Colab: https://drive.google.com/file/d/1kEiHOG6qq3LT3Xi5OeKxxWbz-ah7ENPJ/view?usp=sharing
 Project Description
 Wildfires in California pose a significant threat to lives, property, and the environment. Our primary goal is to utilize machine learning to offer investors in California guidance and insights related to wildfires for making informed decisions when purchasing investment properties.
